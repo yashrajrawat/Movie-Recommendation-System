@@ -19,3 +19,4 @@ More about Cosine Similarity : Understanding the Math behind Cosine Similarity
 
 
 ## Check Live Demo : https://movie-recommend-yshrwt.herokuapp.com/
+![Movie-Recommendation-System](https://github.com/yashrajrawat/Movie-Recommendation-System/blob/main/mrs.JPG)
